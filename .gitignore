@@ -4,3 +4,4 @@ __pycache__/
 *.pyc
 .idea/
 mutations_report.csv
+stress_gen.py
